@@ -1,0 +1,2 @@
+# angularjsdemo
+first angularjs project
